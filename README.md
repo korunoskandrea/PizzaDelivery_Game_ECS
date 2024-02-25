@@ -32,5 +32,3 @@ Value of the bottle with fuel: 7.0
 ## Elements of the game
 Delivery car, boxes with pizza, slices of pizza, holes and fuel bottles
 
-## Screenshot
-![img.png](img.png)
