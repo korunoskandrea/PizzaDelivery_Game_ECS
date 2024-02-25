@@ -1,0 +1,190 @@
+flame
+- Delay -
+active: false
+- Duration - 
+lowMin: 5000.0
+lowMax: 5000.0
+- Count - 
+min: 0
+max: 3
+- Emission - 
+lowMin: 0.0
+lowMax: 0.0
+highMin: 100.0
+highMax: 100.0
+relative: false
+scalingCount: 2
+scaling0: 1.0
+scaling1: 0.40677965
+timelineCount: 2
+timeline0: 0.0
+timeline1: 0.7222218
+- Life - 
+lowMin: 50.0
+lowMax: 50.0
+highMin: 900.0
+highMax: 500.0
+relative: false
+scalingCount: 2
+scaling0: 1.0
+scaling1: 1.0
+timelineCount: 2
+timeline0: 0.0
+timeline1: 1.0
+independent: false
+- Life Offset - 
+active: false
+independent: false
+- X Offset - 
+active: false
+- Y Offset - 
+active: false
+- Spawn Shape - 
+shape: point
+- Spawn Width - 
+lowMin: 0.0
+lowMax: 0.0
+highMin: 0.0
+highMax: 0.0
+relative: false
+scalingCount: 1
+scaling0: 1.0
+timelineCount: 1
+timeline0: 0.0
+- Spawn Height - 
+lowMin: 0.0
+lowMax: 0.0
+highMin: 0.0
+highMax: 0.0
+relative: false
+scalingCount: 1
+scaling0: 1.0
+timelineCount: 1
+timeline0: 0.0
+- X Scale - 
+lowMin: 0.0
+lowMax: 0.0
+highMin: 32.0
+highMax: 32.0
+relative: false
+scalingCount: 2
+scaling0: 1.0
+scaling1: 0.66101694
+timelineCount: 2
+timeline0: 0.0
+timeline1: 0.91666627
+- Y Scale - 
+active: false
+- Velocity - 
+active: true
+lowMin: 0.0
+lowMax: 0.0
+highMin: 10.0
+highMax: 100.0
+relative: false
+scalingCount: 3
+scaling0: 1.0
+scaling1: 0.440679
+scaling2: 0.7966112
+timelineCount: 3
+timeline0: 0.0
+timeline1: 0.38888848
+timeline2: 0.7777774
+- Angle - 
+active: true
+lowMin: 90.0
+lowMax: 90.0
+highMin: 0.0
+highMax: 180.0
+relative: false
+scalingCount: 3
+scaling0: 1.0
+scaling1: 0.32203546
+scaling2: 0.0
+timelineCount: 3
+timeline0: 0.0
+timeline1: 0.6458329
+timeline2: 1.0
+- Rotation - 
+active: true
+lowMin: 0.0
+lowMax: 0.0
+highMin: 0.0
+highMax: 0.0
+relative: false
+scalingCount: 2
+scaling0: 1.0
+scaling1: 0.57627225
+timelineCount: 2
+timeline0: 0.0
+timeline1: 0.4722222
+- Wind - 
+active: true
+lowMin: 0.0
+lowMax: 0.0
+highMin: 100.0
+highMax: 100.0
+relative: false
+scalingCount: 2
+scaling0: 1.0
+scaling1: 0.2881356
+timelineCount: 2
+timeline0: 0.0
+timeline1: 0.7569444
+- Gravity - 
+active: true
+lowMin: 0.0
+lowMax: 0.0
+highMin: 70.0
+highMax: 70.0
+relative: false
+scalingCount: 1
+scaling0: 1.0
+timelineCount: 1
+timeline0: 0.0
+- Tint - 
+colorsCount: 12
+colors0: 1.0
+colors1: 1.0
+colors2: 1.0
+colors3: 1.0
+colors4: 1.0
+colors5: 1.0
+colors6: 0.44313726
+colors7: 0.44313726
+colors8: 0.44313726
+colors9: 0.2627451
+colors10: 0.2627451
+colors11: 0.2627451
+timelineCount: 4
+timeline0: 0.0
+timeline1: 0.24150944
+timeline2: 0.7169811
+timeline3: 0.98867923
+- Transparency - 
+lowMin: 0.0
+lowMax: 0.0
+highMin: 1.0
+highMax: 1.0
+relative: false
+scalingCount: 4
+scaling0: 0.0
+scaling1: 1.0
+scaling2: 0.7966102
+scaling3: 0.0
+timelineCount: 4
+timeline0: 0.0
+timeline1: 0.2
+timeline2: 0.8958333
+timeline3: 1.0
+- Options - 
+attached: false
+continuous: true
+aligned: false
+additive: true
+behind: false
+premultipliedAlpha: false
+spriteMode: single
+- Image Paths -
+smoke2Dw.png
+
